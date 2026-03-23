@@ -51,7 +51,7 @@ sampleapp/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/your-username/ci-cd-pipeline-jenkins-docker.git
+git clone https://github.com/krishnapatel-dev/ci-cd-pipeline-jenkins-docker.git
 cd ci-cd-pipeline-jenkins-docker
 ```
 
@@ -88,10 +88,15 @@ The pipeline is defined using a **Jenkinsfile**:
 ## 📸 Output
 
 ✔ Jenkins pipeline executed successfully
+<img width="1363" height="952" alt="image" src="https://github.com/user-attachments/assets/10763ffb-d7d1-4033-8f5a-c464d2b5490d" />
 ✔ Docker image created
+<img width="847" height="161" alt="image" src="https://github.com/user-attachments/assets/2c2c7a65-9da6-4341-949d-a7af70362bf7" />
+
 ✔ Application deployed via container
 
-*(Add screenshots here for better presentation)*
+<img width="1222" height="76" alt="image" src="https://github.com/user-attachments/assets/5608ab7c-ce0e-46c3-81fd-717ab7ff653c" />
+
+
 
 ---
 
